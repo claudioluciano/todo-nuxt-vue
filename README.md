@@ -1,4 +1,5 @@
-# Todo
+# todo-nuxt-vue
+a simple todo :)
 
 > My world-class Nuxt.js project
 
@@ -20,3 +21,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
